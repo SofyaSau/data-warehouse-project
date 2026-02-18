@@ -21,7 +21,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (data Analytics)
+### BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
 Develop SQL-based analitycs to deliver detailed insights into:
@@ -36,3 +36,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution.
+
+## About Me
+
+Hi there! I'm Sofia Sautych, a Business Intelligence specialist focused on building end-to-end BI systems and handling analytics platform migrations.
