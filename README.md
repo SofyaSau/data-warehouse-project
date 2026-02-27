@@ -29,12 +29,12 @@ Evrething is for Free!
 
 - [Datasets](datasets): Acces to the project dataset (csv files)
 - [SQL Server Express](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver17&tabs=ubuntu2004%2C2505ubuntu2404%2Codbc-ubuntu-1804): Lightweight server for hosting your SQL database.
-- SQL Server Managment Studio (SSMS): GUI for managing and interacting with databases.
-- Git Repository: Set up A GitHub account and repository to manage, verson and collaborate on your code efficiently.
-- DrawIO: Design data architecture, models, flows, and diagrams.
-- Notion: All-in-one tool for project managment and organization/
-- Notion Project Steps: Access to All Project Phases and tasks.
-- 
+- [SQL Server Managment Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install): GUI for managing and interacting with databases.
+- [Git Repository](https://github.com/): Set up A GitHub account and repository to manage, verson and collaborate on your code efficiently.
+- [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
+- [Notion](https://www.notion.so): All-in-one tool for project managment and organization/
+- [Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-cd61a661c75442969d85353b9c4b8099?source=copy_link): Access to All Project Phases and tasks.
+
 ---
 
 ## Project Requirements
