@@ -118,10 +118,13 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
-## License
+## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution.
 
-## About Me
+## 🌟 About Me
 
 Hi there! I'm Sofia Sautych, a Business Intelligence specialist focused on building end-to-end BI systems and handling analytics platform migrations.
+
+Let's stay in touch! Feel free to connect on the LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-sautych/)
