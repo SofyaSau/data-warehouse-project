@@ -23,6 +23,20 @@ This project involves:
 
 ---
 
+## 🔨 Important Links & Tools:
+
+Evrething is for Free!
+
+- [Datasets](datasets): Acces to the project dataset (csv files)
+- SQL Server Express: Lightweight server for hosting your SQL database.
+- SQL Server Managment Studio (SSMS): GUI for managing and interacting with databases.
+- Git Repository: Set up A GitHub account and repository to manage, verson and collaborate on your code efficiently.
+- DrawIO: Design data architecture, models, flows, and diagrams.
+- Notion: All-in-one tool for project managment and organization/
+- Notion Project Steps: Access to All Project Phases and tasks.
+- 
+---
+
 ## Project Requirements
 
 ### Building the Data Warehouse (Dana Engineering)
