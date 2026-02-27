@@ -28,7 +28,7 @@ This project involves:
 Evrething is for Free!
 
 - [Datasets](datasets): Acces to the project dataset (csv files)
-- SQL Server Express: Lightweight server for hosting your SQL database.
+- [SQL Server Express](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver17&tabs=ubuntu2004%2C2505ubuntu2404%2Codbc-ubuntu-1804): Lightweight server for hosting your SQL database.
 - SQL Server Managment Studio (SSMS): GUI for managing and interacting with databases.
 - Git Repository: Set up A GitHub account and repository to manage, verson and collaborate on your code efficiently.
 - DrawIO: Design data architecture, models, flows, and diagrams.
