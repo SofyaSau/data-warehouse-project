@@ -37,7 +37,7 @@ Evrething is for Free!
 
 ---
 
-## Project Requirements
+## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Dana Engineering)
 
@@ -62,6 +62,17 @@ Develop SQL-based analitycs to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+## 🚧 Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver** and **Gold** layers:  
+<img width="1039" height="636" alt="architecture_dwh" src="https://github.com/user-attachments/assets/543d33bd-a372-4352-97ff-67bdc791486a" />
+
+1. **Bronze Layer:** Stores raw data as-is from the source system. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer:** This layer includes data cleansing, standartization, and normalization processes to prepare data for analysis.
+3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
 
