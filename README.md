@@ -78,6 +78,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ## 📂 Repository Structure
 
+```
 data-warehouse-project  
 |   
 ├── datasets/                            # Row datasets used for the project (ERP and CRM data)  
@@ -99,6 +100,7 @@ data-warehouse-project
 |    
 ├── LICENSE                              # License information for the repository  
 └── README.md                            # Project overview and instructions  
+```
 
 ---
 
