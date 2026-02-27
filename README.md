@@ -80,26 +80,26 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ```
 data-warehouse-project  
-|   
-├── datasets/                            # Row datasets used for the project (ERP and CRM data)  
-|    
-├── docs/                                # Project documentation and architecture details  
+|
+├── datasets/                            # Row datasets used for the project (ERP and CRM data)
+|
+├── docs/                                # Project documentation and architecture details
 |   ├── architecture_dwh.drawio  
-│   ├── data_catalog.md                  # Catalog of datasets, including field description and metadata  
-│   ├── data_flow_diagram.drawio  
-│   ├── data_model.drawio  
-│   ├── integration_model.drawio  
-│   └── naming_conventions.md            # Consistent naming guidelines for tables, columns, and files  
-|   
-├── scripts                              # SQL scripts for ETL and transformations  
-│   ├── bronze                           # Scripts for exctracting and loading row data  
-│   ├── silver                           # Scripts for cleaning and transforming data  
-│   ├── gold                             # Scripts for create analytical models  
-|  
-├── tests                                # Test scripts  
-|    
-├── LICENSE                              # License information for the repository  
-└── README.md                            # Project overview and instructions  
+│   ├── data_catalog.md                  # Catalog of datasets, including field description and metadata
+│   ├── data_flow_diagram.drawio
+│   ├── data_model.drawio
+│   ├── integration_model.drawio
+│   └── naming_conventions.md            # Consistent naming guidelines for tables, columns, and files
+|
+├── scripts                              # SQL scripts for ETL and transformations
+│   ├── bronze                           # Scripts for exctracting and loading row data
+│   ├── silver                           # Scripts for cleaning and transforming data
+│   ├── gold                             # Scripts for create analytical models
+|
+├── tests                                # Test scripts
+|
+├── LICENSE                              # License information for the repository
+└── README.md                            # Project overview and instructions
 ```
 
 ---
